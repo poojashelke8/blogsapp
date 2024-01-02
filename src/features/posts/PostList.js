@@ -12,7 +12,7 @@ const PostList = () => {
         </article>
     ))
   return (
-    <section>
+    <section >
         <h2>Posts</h2>
         {renderedPosts}
     </section>
